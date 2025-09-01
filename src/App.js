@@ -6,7 +6,7 @@ import { getFirestore, doc, setDoc, updateDoc, onSnapshot, collection, getDocs, 
 
 // --- Firebase Configuration ---
 const YOUR_FIREBASE_CONFIG = {
-  apiKey: "AIzaSyClLtj-z8vU2N5KZSeRKGViWnjHW7MtMeM",
+  apiKey: "",
   authDomain: "university-halls.firebaseapp.com",
   projectId: "university-halls",
   storageBucket: "university-halls.firebasestorage.app",
